@@ -1,0 +1,19 @@
+- What ***git*** command creates a branch?
+
+The git comman that creates a new branch is git checkout -b
+
+- What is the difference between a fast-forward and recursive merge?
+
+ The difference between a fast-forward and recursive merge is that fast foward merge does not have new merges on the master and recursive is making new branches and commits which goes back to the master
+
+- What ***git*** command changes to another branch?
+
+The git command that changes to another branch is git checkout 
+
+- What ***git*** command deletes a branch?
+
+The git command that deletes a branch is git branch -D
+
+- How do merge conflicts happen?
+
+Merge conflicts happens when there has been another change made to the same file 
